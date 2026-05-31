@@ -1,0 +1,6 @@
+{
+  "name": "Web Browser",
+  "description": "A polished, lightning-fast web browser with custom search, bookmarks, and local navigation history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
